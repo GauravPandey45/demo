@@ -1,1 +1,1 @@
-echo "Github Poll Demo"
+echo "Github Poll Demo 2"
